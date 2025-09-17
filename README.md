@@ -96,9 +96,9 @@ We built an interactive Tableau Public dashboard with four visuals:
 
 **Dashboard Link:** [Customer Retention Analysis](https://public.tableau.com/views/CustomerRetentionAnalysis_17581009286650/Dashboard1)
 
-**Dashboard Screenshots:**
+**Dashboard Screenshot:**
 
-<img width="1440" height="900" alt="Screenshot 2025-09-17 at 16 27 48" src="https://github.com/user-attachments/assets/d58d5d32-8897-4a10-9678-bcb6ab7d93ab" />
+<img width="1440" height="900" alt="Screenshot 2025-09-17 at 16 36 06" src="https://github.com/user-attachments/assets/99da694c-b1c7-445f-99e9-f4b54ed50cef" />
 
 ## Key Insights
 	•	Customers in the North region have the lowest churn
