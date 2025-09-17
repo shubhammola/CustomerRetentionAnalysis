@@ -17,6 +17,15 @@ This project focuses on **analyzing customer retention** using SQL, Excel, and T
 
 **MS Excel/Google Sheets Screenshots:**
 
+<img width="1440" height="900" alt="Screenshot 2025-09-17 at 16 28 37" src="https://github.com/user-attachments/assets/7370fad3-c03a-426f-852d-ee38da151a07" />
+<img width="1440" height="900" alt="Screenshot 2025-09-17 at 16 28 44" src="https://github.com/user-attachments/assets/44bdb4d0-ed43-4d34-9fcf-1b5771ea7eb3" />
+<img width="1440" height="900" alt="Screenshot 2025-09-17 at 16 28 52" src="https://github.com/user-attachments/assets/6c240856-7cb5-4a58-a649-1ce5e3529319" />
+<img width="1440" height="900" alt="Screenshot 2025-09-17 at 16 29 02" src="https://github.com/user-attachments/assets/2cbd4ca4-2d86-4833-abe9-8f0da9b58843" />
+<img width="1440" height="900" alt="Screenshot 2025-09-17 at 16 29 25" src="https://github.com/user-attachments/assets/9cd03b3a-eafe-4229-b12e-8cc39e53ecdf" />
+<img width="1440" height="900" alt="Screenshot 2025-09-17 at 16 29 34" src="https://github.com/user-attachments/assets/e4127a86-b4a9-4b5e-89c1-f9bada5c4ba6" />
+<img width="1440" height="900" alt="Screenshot 2025-09-17 at 16 29 43" src="https://github.com/user-attachments/assets/f3ac52dc-4bcc-4951-be6c-b94dabeb90d1" />
+<img width="1440" height="900" alt="Screenshot 2025-09-17 at 16 29 50" src="https://github.com/user-attachments/assets/a63f30f6-03dc-481a-9b46-683bae4ec0bc" />
+
 > **Note:** The data used in this project is **dummy/simulated** for educational purposes and does not contain any real customer information.
 
 ---
@@ -80,14 +89,16 @@ GROUP BY segment;
 ## Dashboard
 
 We built an interactive Tableau Public dashboard with four visuals:
-	1.	Churn Trend Over Time → Line chart showing how churn changes month by month
-	2.	Churn % by Region → Bar chart highlighting high-risk regions
-	3.	Retention by Segment → Bar chart showing loyalty of Premium, Standard, and Budget customers
-	4.	Avg Satisfaction vs Churn → Scatter plot showing correlation between satisfaction and churn
+- Churn Trend Over Time → Line chart showing how churn changes month by month
+- Churn % by Region → Bar chart highlighting high-risk regions
+- Retention by Segment → Bar chart showing loyalty of Premium, Standard, and Budget customers
+- Avg Satisfaction vs Churn → Scatter plot showing correlation between satisfaction and churn
 
 **Dashboard Link:** [Customer Retention Analysis](https://public.tableau.com/views/CustomerRetentionAnalysis_17581009286650/Dashboard1)
 
 **Dashboard Screenshots:**
+
+<img width="1440" height="900" alt="Screenshot 2025-09-17 at 16 27 48" src="https://github.com/user-attachments/assets/d58d5d32-8897-4a10-9678-bcb6ab7d93ab" />
 
 ## Key Insights
 	•	Customers in the North region have the lowest churn
